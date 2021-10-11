@@ -1,0 +1,153 @@
+body {
+    background-color: #d6d6d6; 
+}
+.mainpage {
+    background-image: url(bgproj.1.png);
+    position: cover;
+    align-items: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 900px;
+    width:auto;
+}
+
+.navbar{
+    background-color: grey;
+    opacity: 0.5;
+    padding: 2%;
+    font-size: 150%;
+    justify-content: center;
+    display: flex;
+    width: auto;
+}
+
+a {
+   margin-left: 10%;
+   margin-right: 10%;
+   
+    color: whitesmoke;
+}
+#About {
+    background-color:#6b6b6b ;
+    height: 750px;
+    width: auto;
+    margin-top:0.5%;
+}
+#About img {
+    height: 90%;
+    width: 50%;
+    padding-top: 3%;
+    padding-left: 3%;
+    border-radius: 15%;
+    margin-bottom: 5%;
+}
+.aboutbox {
+    float: right;
+    margin: 5%;
+    margin-bottom: 5%;
+    margin-top: 7%;
+    background-color: transparent;
+    height: 70%;
+    width: 40%;
+}
+.aboutbox p {
+    text-align: center;
+    font-family: 'Oleo Script', cursive;
+    color: rgb(242, 243, 167);
+    letter-spacing: 2px;
+    text-indent: 5%;
+}
+.aboutbox h6{
+    text-align: center;
+    font-family: 'Oleo Script', cursive;
+    color: rgb(242, 243, 167);
+    letter-spacing: 2px;
+}
+#Gallery {
+    background-color:  #909090; ;
+    height: 750px;
+    width: auto;
+    margin-top:1%;
+}
+.back {
+    background: rgb(233, 171, 161);
+    height: 40%;
+    width: auto;
+
+ }
+ .back img {
+    border-radius: 20px;
+    padding: 0%;
+    border: none;
+    height: 130%;
+    width: 25%;
+    margin: 3%;
+    margin-left: 4.5%;
+    margin-top: 5%;
+ }
+ .qoute {
+    background-color: transparent;
+    height: 20%;
+    width: auto;
+    margin: 5%;
+    margin-top: 15%;
+}
+.qoute h5 {
+    text-align: center;
+    color:rgb(233, 171, 161);
+    padding: 3%;
+    word-spacing: 10px;
+    font-family: 'Oleo Script', cursive;
+    font-size: 200%;
+}
+#Gallery {
+    background-color:  #909090; ;
+    height: 750px;
+    width: auto;
+    margin-top:1%;
+}
+#Contact {
+    background-color:  transparent ;
+    border: 20px solid black;
+    height: 750px;
+    width: auto;
+}
+.contactbox {
+    background-image: url('contpic.png');
+    position: cover;
+    align-items: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 80%;
+    width: auto;
+    margin: 5%;
+    margin-left: 17%;
+    padding-top: 2%;
+}
+.form-floating {
+    margin-top: 3%;
+    margin-left: 12%;
+    width: 60%;  
+}
+.button {
+  margin-left: 13%;
+  margin-top: 5%;
+}
+.footer {
+    margin-top: auto;
+    background-color: grey;
+    opacity: 0.5;
+    padding: 2%;
+    font-size: 130%;
+    justify-content: center;
+    display: flex;
+    width: auto;
+    color: whitesmoke;
+}
+.footer i {
+    padding-right:5%;
+    padding-left:5%;
+ 
+}
+
+
